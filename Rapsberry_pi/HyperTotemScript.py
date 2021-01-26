@@ -23,7 +23,7 @@ TotemDictionary = {
 
 totem_identifer = 8
 SUPERVISOR = False  # boolean that states whether a totem has supervisor privileges
-HYPERVISOR = False
+HYPERVISOR = True
 
 ####### Constants ###########
 
